@@ -1,3 +1,3 @@
-# [asyereal.github.io](https://asyereal.github.io "Page")  
+# [tarannumpro.github.io](https://tarannumpro.github.io "Page")  
 
-## You might find something ~~useful~~ *interesting* here...  
+## Tarannum Pro is an innovation project developed by students of Maahad Tahfiz Negeri Pahang
