@@ -1,5 +1,5 @@
 body{
-	background: #000000;
+	background: #66ccff;
 	color: #ffffff;
 	font-family: Arial;
 	
@@ -74,7 +74,7 @@ header{
 	font-size: 200%;
 	display: inline-block;
 	margin: 5px;
-	background: #202020;
+	background: #0066ff;
 	border: none;
 	border-radius: 15px;
 	padding-top: 1%;
@@ -85,10 +85,9 @@ header{
 	
 }
 .articles:hover{
-	            transition-duration: 1s;
-	                        background: white;
-	                                    color: #202020;
-	                                    
+    transition-duration: 1s;
+	background: white;
+    color: #0066ff;
 }
 .note{
 	font-family: "Lucida Console";
